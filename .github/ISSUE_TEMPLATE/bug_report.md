@@ -6,16 +6,12 @@ labels: ''
 assignees: ''
 
 ---
-
-**Describe the bug**
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
- 
-
-**Additional context**
-Add any other context about the problem here.
+Discord Username And Tag:
+_________________________
+Describe The Issue:
+_________________________
+MC Version:
+_________________________
+Screenshots or Videos(ONLY IF YOU HAVE):
+_________________________
+Anything Else:
